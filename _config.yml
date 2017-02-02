@@ -52,8 +52,8 @@ medium: medium
 email: myemail@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
+    Mohak Kulshreshtha:
+        name: Mohak Kulshreshtha
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
