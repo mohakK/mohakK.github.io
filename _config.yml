@@ -35,12 +35,12 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+#twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+ linkedin: Mohak Kulshreshtha
 # youtube: myyoutube
 # spotify: myspotify
 github: mohakK
@@ -72,7 +72,7 @@ width: normal
 #projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+#about: true
 #blog: true
 
 # do you want to show the "read time" of the posts?
