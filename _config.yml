@@ -32,7 +32,7 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: false
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -89,7 +89,7 @@ related: true
 blog-nav-links: false
 
 # show author block at the end of a post ?
-show-author: false
+show-author: true
 
 # do you want some animations?
 animation: true
