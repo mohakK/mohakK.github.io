@@ -15,7 +15,7 @@ layout: page
 	<li>Java</li>
 	<li>Verilog</li>
 	<li>MySQL</li>
-	<li>Microsoft Office</li>
+	<!--<li>Microsoft Office</li>-->
 	
 </ul>
 
