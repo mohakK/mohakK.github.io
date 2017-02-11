@@ -4,8 +4,8 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<h1>Page Under Construction</h1>
-<p>Student at Shiv Nadar University.</p>
+<h1>Mohak Kulshreshtha</h1>
+<p>Mohak Kulshreshtha is a computer science major at Shiv Nadar University. This is his website. </p>
 
 <h2>Skills</h2>
 
