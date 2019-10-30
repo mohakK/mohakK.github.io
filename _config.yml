@@ -1,5 +1,5 @@
 # main text of home
-name: Mohak Kulshreshtha
+name: 
 bio: 
 
 # twitter summary info
@@ -54,7 +54,7 @@ github: mohakk05
 authors:
     Mohak Kulshreshtha:
         name: Mohak Kulshreshtha
-        bio: A Man who travels the world eating noodles
+        bio: A
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
