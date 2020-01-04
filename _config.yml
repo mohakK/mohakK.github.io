@@ -8,7 +8,7 @@ description:
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+#picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -40,7 +40,7 @@ highlighter: rouge
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-#linkedin: Mohak Kulshreshtha
+linkedin: www.linkedin.com/in/mohak-kulshreshtha
 # youtube: myyoutube
 # spotify: myspotify
 github: mohakk05
@@ -54,7 +54,7 @@ github: mohakk05
 authors:
     Mohak Kulshreshtha:
         name: Mohak Kulshreshtha
-        bio: A
+        bio: 
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
